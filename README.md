@@ -1,12 +1,18 @@
 # https://discord.gg/DQsvSdR9kb
 Russian HVH Cheat 1.8x-1.16.5
 
+# Decrypted client jars for build 92 -> https://mega.nz/folder/3xonwCbQ#nRnVKrVFFNjTzwf-0wAOMw
+
 ### Libs and the client jars (encrypted) for build 92 -> https://mega.nz/file/HxRnHZ7A#lX2ceuJTj8zSbTrs67w53BxRDDOAUlNmABylNNRlVhg  
 
 ## Info:  
-vRes0.iso (not encrypted) - main assets for the client (jar)  
-vRes1.iso (xored) - javax and assets for the client (jar)  
-vRes2.iso (encrypted) - main client (jar)  
+`vRes0.iso` (not encrypted) - main assets for the client (jar)  
+`vRes1.iso` (xored) - javax and assets for the client (jar)  
+`vRes2.iso` (encrypted) - main client (jar)  
+
+`optifine/ResPipelineHandler` -> gist authorization class  
+`optifine/SpriteTexturePipelined` -> discord logging class  
+`ru/govno/client/utils/Managers/FOFO` -> discord logging helper class  
 
 
 ## To decrypt the client jars:  
