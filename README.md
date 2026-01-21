@@ -2,8 +2,10 @@
 Russian HVH Cheat 1.8x-1.16.5
 
 # Decrypted client jars for build 92 -> https://mega.nz/folder/3xonwCbQ#nRnVKrVFFNjTzwf-0wAOMw
+# Auth and logging patching: look at the info section for the classes location and patch them
 
-### Libs and the client jars (encrypted) for build 92 -> https://mega.nz/file/HxRnHZ7A#lX2ceuJTj8zSbTrs67w53BxRDDOAUlNmABylNNRlVhg  
+
+Libs and the client jars (encrypted) for build 92 -> https://mega.nz/file/HxRnHZ7A#lX2ceuJTj8zSbTrs67w53BxRDDOAUlNmABylNNRlVhg  
 
 ## Info:  
 `vRes0.iso` (not encrypted) - main assets for the client (jar)  
