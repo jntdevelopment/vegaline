@@ -1,7 +1,7 @@
 # https://discord.gg/DQsvSdR9kb
 Russian HVH Cheat 1.8x-1.16.5
 
-Libs and the client jars (encrypted) -> https://mega.nz/file/HxRnHZ7A#lX2ceuJTj8zSbTrs67w53BxRDDOAUlNmABylNNRlVhg
+Libs and the client jars (encrypted) for build 92 -> https://mega.nz/file/HxRnHZ7A#lX2ceuJTj8zSbTrs67w53BxRDDOAUlNmABylNNRlVhg
 
 vRes0.iso (not encrypted) - main assets for the client (jar)
 vRes1.iso (xored) - javax and assets for the client (jar)
