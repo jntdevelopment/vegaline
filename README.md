@@ -1,10 +1,11 @@
 # https://discord.gg/DQsvSdR9kb
 Russian HVH Cheat 1.8x-1.16.5
+Fuck vega33 and djuniks
 
 # full crack -> https://mega.nz/folder/joQijDjR#IRe06GayBsWmakp8_FALTg  
-- unzip gamepath, paste into %localappdata% (should be %localappdata%/gamepath)  
-- unzip VEGA.NCO, paste into %appdata% (should be %appdata%/VEGA.NCO)  
-- launch via run_client.bat from vega  
+- unzip `gamepath`, paste into `%localappdata%` (should be `%localappdata%/gamepath`)  
+- unzip `VEGA.NCO`, paste into `%appdata%` (should be `%appdata%/VEGA.NCO`)  
+- launch via `run_client.bat` from `VEGA.NCO` folder  
 
 # build 93 -> https://mega.nz/file/S9ohnZbb#usQiGdh7nx4zUhOB3SS3vX0tf8l6iAQvlSsw97cQ_44
 
