@@ -1,6 +1,8 @@
 # https://discord.gg/DQsvSdR9kb
 Russian HVH Cheat 1.8x-1.16.5
 
+# build 93 -> https://mega.nz/file/S9ohnZbb#usQiGdh7nx4zUhOB3SS3vX0tf8l6iAQvlSsw97cQ_44
+
 # Decrypted client jars for build 92 -> https://mega.nz/folder/3xonwCbQ#nRnVKrVFFNjTzwf-0wAOMw
 # Auth and logging patching: look at the info section for the classes location and patch them
 
