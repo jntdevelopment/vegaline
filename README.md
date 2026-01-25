@@ -35,3 +35,5 @@ Look at `https://gist.github.com/DICKAFOTON/23aaeb6012dc7365c9bac85aa0f9036b`, p
 Use the installer, go to `%appdata%\Roaming\VEGA.NCO`, copy the `data.bin`
 
 Put both `KeyValue2.json` and `data.bin` into folder named `boiler`, from the root of that folder use `python update_meta.py` and replace the values you've got in the `vres2decrypt.py`  
+
+![image](https://github.com/jntdevelopment/vegaline/blob/main/fun.gif?raw=true)
