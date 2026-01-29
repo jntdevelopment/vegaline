@@ -2,13 +2,13 @@
 Russian HVH Cheat 1.8x-1.16.5
 Fuck vega33 and djuniks
 
-# full crack -> https://mega.nz/folder/joQijDjR#IRe06GayBsWmakp8_FALTg  
 auto:  
-- download the zip files
-- download the installer from the repo
+# download the installer from -> https://raw.githubusercontent.com/jntdevelopment/vegaline/refs/heads/main/vlinstaller_0.1.1_x64-setup.exe
 - ignore the shitty ui and use it 😭
+- there is an option to use local files if auto downloading has failed
 
 manual:  
+# download archives from -> https://mega.nz/folder/joQijDjR#IRe06GayBsWmakp8_FALTg  
 - unzip `gamepath`, paste into `%localappdata%` (should be `%localappdata%/gamepath`)  
 - unzip `VEGA.NCO`, paste into `%appdata%` (should be `%appdata%/VEGA.NCO`)  
 - launch via `run_client.bat` from `VEGA.NCO` folder  
