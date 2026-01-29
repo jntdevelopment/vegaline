@@ -13,7 +13,7 @@ Fuck vega33 and djuniks
 - unzip `VEGA.NCO`, paste into `%appdata%` (should be `%appdata%/VEGA.NCO`)  
 - launch via `run_client.bat` from `VEGA.NCO` folder  
   
-![image](https://github.com/jntdevelopment/vegaline/blob/main/fun.gif?raw=true)
+![image](https://jnt.so/fate.png?raw=true)
 
 ## if you wanna crack it yourself -> some info and the needed files are below
 
