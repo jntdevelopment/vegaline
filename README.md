@@ -3,7 +3,7 @@ Russian HVH Cheat 1.8x-1.16.5
 Fuck vega33 and djuniks  
 
 # auto:  
-- download the installer from -> https://raw.githubusercontent.com/jntdevelopment/vegaline/refs/heads/main/vlinstaller_0.1.1_x64-setup.exe
+- download the installer from -> https://raw.githubusercontent.com/jntdevelopment/vegaline/refs/heads/main/vlinstaller_1.0.1_x64-setup.exe
 - ignore the shitty ui and use it 😭
 - if auto downloading has failed use the local files option
 
